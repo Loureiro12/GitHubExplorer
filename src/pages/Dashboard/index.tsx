@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import api from '../../services/api';
 
 import logo from '../../assets/imagem_2.svg';
-import Repository from '../Repository';
+// import Repository from '../Repository';
 
 import { Title, Form, Repositories, Error } from './styles';
 
